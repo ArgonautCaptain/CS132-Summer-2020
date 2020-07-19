@@ -1,0 +1,13 @@
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.csprojAssemblyReference.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfoInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfo.cs
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.csproj.CoreCompileInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.exe
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.deps.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.dev.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.genruntimeconfig.cache

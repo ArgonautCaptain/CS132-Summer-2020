@@ -5,7 +5,7 @@ namespace HelloWorld
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             string Name = "Jason";
             int Age = 28;

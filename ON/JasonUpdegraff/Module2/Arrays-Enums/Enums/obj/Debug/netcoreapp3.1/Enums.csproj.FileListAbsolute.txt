@@ -1,0 +1,13 @@
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module2\Arrays-Enums\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache
