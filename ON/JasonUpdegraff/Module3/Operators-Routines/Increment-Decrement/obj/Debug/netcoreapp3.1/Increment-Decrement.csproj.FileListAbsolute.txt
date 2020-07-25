@@ -1,0 +1,13 @@
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\bin\Debug\netcoreapp3.1\Increment-Decrement.exe
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\bin\Debug\netcoreapp3.1\Increment-Decrement.deps.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\bin\Debug\netcoreapp3.1\Increment-Decrement.runtimeconfig.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\bin\Debug\netcoreapp3.1\Increment-Decrement.runtimeconfig.dev.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\bin\Debug\netcoreapp3.1\Increment-Decrement.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\bin\Debug\netcoreapp3.1\Increment-Decrement.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\obj\Debug\netcoreapp3.1\Increment-Decrement.csprojAssemblyReference.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\obj\Debug\netcoreapp3.1\Increment-Decrement.AssemblyInfoInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\obj\Debug\netcoreapp3.1\Increment-Decrement.AssemblyInfo.cs
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\obj\Debug\netcoreapp3.1\Increment-Decrement.csproj.CoreCompileInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\obj\Debug\netcoreapp3.1\Increment-Decrement.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\obj\Debug\netcoreapp3.1\Increment-Decrement.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\Increment-Decrement\obj\Debug\netcoreapp3.1\Increment-Decrement.genruntimeconfig.cache

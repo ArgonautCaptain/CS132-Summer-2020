@@ -1,0 +1,13 @@
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.exe
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.deps.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.dev.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.csprojAssemblyReference.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfoInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfo.cs
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.csproj.CoreCompileInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.genruntimeconfig.cache
