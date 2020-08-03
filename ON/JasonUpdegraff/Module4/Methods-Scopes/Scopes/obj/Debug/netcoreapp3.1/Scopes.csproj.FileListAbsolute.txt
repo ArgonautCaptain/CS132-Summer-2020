@@ -1,0 +1,13 @@
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.exe
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.deps.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.runtimeconfig.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.runtimeconfig.dev.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.csprojAssemblyReference.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.AssemblyInfoInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.AssemblyInfo.cs
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.csproj.CoreCompileInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.genruntimeconfig.cache
