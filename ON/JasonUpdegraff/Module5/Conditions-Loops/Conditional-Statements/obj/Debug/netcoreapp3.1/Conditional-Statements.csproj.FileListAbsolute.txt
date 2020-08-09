@@ -1,0 +1,13 @@
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.exe
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.deps.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.runtimeconfig.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.runtimeconfig.dev.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\bin\Debug\netcoreapp3.1\Conditional-Statements.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.csprojAssemblyReference.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.AssemblyInfoInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.AssemblyInfo.cs
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.csproj.CoreCompileInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\Conditional-Statements\obj\Debug\netcoreapp3.1\Conditional-Statements.genruntimeconfig.cache

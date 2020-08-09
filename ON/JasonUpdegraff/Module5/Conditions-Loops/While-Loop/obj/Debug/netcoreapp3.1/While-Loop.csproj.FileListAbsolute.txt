@@ -1,0 +1,13 @@
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.exe
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.deps.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.runtimeconfig.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.runtimeconfig.dev.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.csprojAssemblyReference.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.AssemblyInfoInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.AssemblyInfo.cs
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.csproj.CoreCompileInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module5\Conditions-Loops\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.genruntimeconfig.cache
