@@ -25,7 +25,7 @@ namespace While_Loop
                 }
                 else
                 {
-                    WriteLine("You guessed wrong. Guess again: ");
+                    WriteLine("You guessed wrong! Guess again: ");
                 }
             }
         }
