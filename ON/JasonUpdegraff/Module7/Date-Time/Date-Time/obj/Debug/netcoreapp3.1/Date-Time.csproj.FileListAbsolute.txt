@@ -1,0 +1,13 @@
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.exe
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.deps.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.runtimeconfig.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.runtimeconfig.dev.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.csprojAssemblyReference.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.AssemblyInfoInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.AssemblyInfo.cs
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.csproj.CoreCompileInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module7\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.genruntimeconfig.cache
