@@ -1,0 +1,13 @@
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.exe
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.deps.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.runtimeconfig.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.runtimeconfig.dev.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.csprojAssemblyReference.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.AssemblyInfoInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.AssemblyInfo.cs
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.csproj.CoreCompileInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.genruntimeconfig.cache
