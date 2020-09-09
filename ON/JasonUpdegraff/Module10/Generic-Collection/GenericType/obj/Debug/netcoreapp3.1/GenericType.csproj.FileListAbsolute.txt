@@ -1,0 +1,13 @@
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.exe
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.deps.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.dev.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.csprojAssemblyReference.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfoInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfo.cs
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.csproj.CoreCompileInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.genruntimeconfig.cache

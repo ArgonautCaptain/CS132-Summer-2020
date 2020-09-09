@@ -1,0 +1,12 @@
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+F:\_City University_\CS 132\Projects\CS132-Summer-2020\ON\JasonUpdegraff\Module10\Generic-Collection\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
